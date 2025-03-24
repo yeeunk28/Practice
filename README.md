@@ -15,6 +15,9 @@ The moral of the Story is *"Respect nature and learn from the past"*
 |----------|----------|----------|
 | 1    | Adventurous     | Not afraid to do new and dangerous or exciting things     |
 | 2   | Data     | Data     |
+| 3   | Data     | Data     |
+| 4   | Data     | Data     |
+| 5   | Data     | Data     |
 
 ## 4. Reflection
 - Item 1
